@@ -98,13 +98,13 @@ body::-webkit-scrollbar{
   text-align: center !important;
 }
 #nameinput{
-  width: 81vw;
+  width: 61vw;
   height: 3vw;
   background-color: transparent;
   border: none;
   border-bottom: 2px solid white;
-  font-size: 2vw;
-  margin-top: 2vw;
+  font-size: 1vw;
+  margin-top: 1vw;
   padding: 0vw 1vw;
   color: white;
 }
@@ -113,20 +113,20 @@ body::-webkit-scrollbar{
 }
 .namelabel{
   display: block;
-  margin-left: -69vw;
+  margin-left: -55vw;
   margin-top: 0.5vw;
-  font-size: 1.5vw;
+  font-size: 0.8vw;
   color: grey;
   visibility: hidden;
 }
 #phoneinput{
-  width: 81vw;
+  width: 61vw;
   height: 3vw;
   background-color: transparent;
   border: none;
   border-bottom: 2px solid white;
-  font-size: 2vw;
-  margin-top: 2vw;
+  font-size: 1vw;
+  margin-top: 1vw;
   padding: 0vw 1vw;
   color: white;
 }
@@ -135,20 +135,20 @@ body::-webkit-scrollbar{
 }
 .phonelabel{
   display: block;
-  margin-left: -69vw;
+  margin-left: -55vw;
   margin-top: 0.5vw;
-  font-size: 1.5vw;
+  font-size: 0.8vw;
   color: grey;
   visibility: hidden;
 }
 #emailinput{
-  width: 81vw;
+  width: 61vw;
   height: 3vw;
   background-color: transparent;
   border: none;
   border-bottom: 2px solid white;
-  font-size: 2vw;
-  margin-top: 2vw;
+  font-size: 1vw;
+  margin-top: 1vw;
   padding: 0vw 1vw;
   color: white;
 }
@@ -157,9 +157,9 @@ body::-webkit-scrollbar{
 }
 .emaillabel{
   display: block;
-  margin-left: -69vw;
+  margin-left: -55vw;
   margin-top: 0.5vw;
-  font-size: 1.5vw;
+  font-size: 0.8vw;
   color: grey;
   visibility: hidden;
 }
@@ -168,9 +168,9 @@ body::-webkit-scrollbar{
 }
 textarea{
   color: black;
-  width: 79vw;
+  width: 61vw;
   height: 4vw;
-  margin-top: 2vw;
+  margin-top: 1vw;
   padding: 1vw;
   font-size: 1vw;
 }
@@ -180,7 +180,7 @@ textarea{
 }
 #submitbtn{
   padding: 0.5vw;
-  font-size: 1.5vw;
+  font-size: 1vw;
 }
 /* newsletter --------  */
 #newsletter{
